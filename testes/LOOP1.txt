@@ -1,7 +1,0 @@
-addi 1 2 3
-addi 6 2 6
-LOOP
-ble 6 1 FIM
-addi 1 1 1
-jal LOOP
-FIM
