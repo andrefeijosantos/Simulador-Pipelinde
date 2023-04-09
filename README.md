@@ -4,7 +4,7 @@ Contribuidores: André Feijó, Natascha Palhares, Rafael Crevelari, Ricardo ferr
 Este é um simulador de pipeline desenvolvido para fins acadêmicos. Para utilizá-lo, siga os passos abaixo:</br>
 
 **Passo 1:** Abrir o Colab</br>
-Primeiramente, entre em [https://colab.research.google.com/drive/1AKfgtQL16wR_ayo0Qit95FUbZR4lzr_Y#scrollTo=iaYb9gY-3Kma] para acessar o Simulador.</br>
+Primeiramente, entre em https://colab.research.google.com/drive/1AKfgtQL16wR_ayo0Qit95FUbZR4lzr_Y#scrollTo=iaYb9gY-3Kma para acessar o Simulador.</br>
 
 **Passo 2:** Executar as Células de Dependências e Imports.</br>
 Agora, você precisará executar as células de "Dependências" e "Imports e Definições Globais". Essas células garantem que todas as bibliotecas necessárias estejam carregadas e as definições globais estejam configuradas corretamente.</br></br>
