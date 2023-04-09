@@ -1,4 +1,4 @@
-# **Bem-vindo(a) ao Simulador Pipeline!** 
+# **Simulador Pipeline** 
 Contribuidores: André Feijó, Natascha Palhares, Rafael Crevelari, Ricardo ferreira e Pedro Fioro.
 
 Este é um simulador de pipeline desenvolvido para fins acadêmicos. Para utilizá-lo, siga os passos abaixo:</br>
@@ -43,5 +43,3 @@ Após carregar o arquivo com a tabela, o Corretor irá solicitar que você selec
 Por fim, o Corretor irá comparar a tabela do arquivo CSV com os resultados gerados pelo Simulador. Se as tabelas forem idênticas, você receberá a mensagem "TABELAS IGUAIS!!!" indicando que não há diferenças entre elas. Caso contrário, o Corretor irá mostrar as duas tabelas, destacando as diferenças para que você possa identificá-las.</br>
 Lembre-se de que o Colab pode cortar a tabela se forem executados mais do que 19 ciclos. No entanto, você pode fazer o download da tabela em formato CSV para análises mais detalhadas (Opcional). Para isso, vá em "Arquivos" na barra de menu do Colab e clique em "result.csv". Em seguida, selecione "Fazer Download" para salvar a tabela em seu computador.
 </br></br>
-### **Notas dos Desenvolvedores**
-Ao final, há uma célula de texto com algumas notas de como o simulador foi desenvolvido.
