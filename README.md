@@ -1,5 +1,5 @@
 # **Simulador Pipeline** 
-Contribuidores: André Feijó, Natascha Palhares, Rafael Crevelari, Ricardo ferreira e Pedro Fioro.
+**Contribuidores: André Feijó, Natascha Palhares, Rafael Crevelari, Ricardo ferreira e Pedro Fioro.**
 
 Este é um simulador de pipeline desenvolvido para fins acadêmicos. Para utilizá-lo, siga os passos abaixo:</br>
 
