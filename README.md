@@ -1,14 +1,15 @@
-# Simulador Pipeline
+# **Bem-vindo(a) ao Simulador Pipeline!** 
 Contribuidores: André Feijó, Natascha Palhares, Rafael Crevelari, Ricardo ferreira e Pedro Fioro.
-
-## **Bem-vindo(a) ao Simulador Pipeline!** 
 
 Este é um simulador de pipeline desenvolvido para fins acadêmicos. Para utilizá-lo, siga os passos abaixo:</br>
 
-**Passo 1:** Executar as Células de Dependências e Imports.</br>
-Na primeira etapa, você precisará executar as células de "Dependências" e "Imports e Definições Globais". Essas células garantem que todas as bibliotecas necessárias estejam carregadas e as definições globais estejam configuradas corretamente.</br></br>
+**Passo 1:** Abrir o Colab</br>
+Primeiramente, entre em [https://colab.research.google.com/drive/1AKfgtQL16wR_ayo0Qit95FUbZR4lzr_Y#scrollTo=iaYb9gY-3Kma] para acessar o Simulador.</br>
 
-**Passo 2:** Escolher uma Instância de Teste</br>
+**Passo 2:** Executar as Células de Dependências e Imports.</br>
+Agora, você precisará executar as células de "Dependências" e "Imports e Definições Globais". Essas células garantem que todas as bibliotecas necessárias estejam carregadas e as definições globais estejam configuradas corretamente.</br></br>
+
+**Passo 3:** Escolher uma Instância de Teste</br>
 Em seguida, você precisa escolher a instância de teste que deseja utilizar. Você tem duas opções: Simulador ou Corretor. Essas instâncias estão numeradas de 1 a 8 e são pré-definidas. Se você deseja usar uma instância de teste personalizada, também pode carregar seu próprio arquivo de teste em formato .txt.
 
 Para carregar sua própria instância de teste, clique em "Arquivo de Teste" e selecione o arquivo .txt no seu computador. Em seguida, escolha a opção "NOVO" para indicar que é uma instância personalizada. Para fazer upload de uma instância de teste, é importante que cada linha do arquivo .txt atenda à seguinte formatação:</br>
@@ -20,7 +21,7 @@ Também é importante que o código respeite a sintaxe. Esta versão **NÃO** ve
 
 Por fim, selecione o número de ciclos que deseja executar.</br></br>
 
-**Passo 3:** Verificar seu código</br>
+**Passo 4:** Verificar seu código</br>
 Depois, você precisa executar a célula "Instância de Teste". Essa célula irá mostrar o código que será executado com base nas suas escolhas anteriores. Você pode revisar o código gerado para entender como o simulador de pipeline irá processar as instruções.
 </br></br>
 Após ter concluído os passos anteriores, você está pronto(a) para executar o Simulador de Pipeline! Você pode apenas simular uma tabela ou corrigir uma que tenha feito. Após os resultados, é possível assistir uma animação do caso de teste inserido executando a célula "Animação", no final do Colab.
