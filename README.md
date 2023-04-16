@@ -8,7 +8,7 @@ O Simulador permite aos usuários visualizar e entender como as instruções sã
 
 Neste repositório, é possível encontrar algumas instâncias de testes escritas pela equipe de desenvolvimento para que sejam executados pelo usuário, além dos testes pré-definidos no Colab.
 
-## <b>Como Usar</b>
+## <b>Como Usar?</b>
 
 1. Acesse o link para o [Colaboratory (Colab)](https://colab.research.google.com/drive/1AKfgtQL16wR_ayo0Qit95FUbZR4lzr_Y?authuser=1#scrollTo=dqJ1tU0J8a8y) onde o simulador foi implementado;
 2. Siga as instruções fornecidas para executar as células de código necessárias;
