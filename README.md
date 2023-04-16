@@ -18,7 +18,7 @@ Neste repositório, é possível encontrar algumas instâncias de testes escrita
 
 O simulador oferece a capacidade de fazer o download dos resultados em um arquivo CSV, permitindo uma análise mais detalhada das instruções executadas. Além disso, também é possível publicar uma tabela feita pelo usuário e comparar os resultados com uma tabela correta para identificar discrepâncias.
 
-## <b>Créditos</b>
+## <b>Contribuidores</b>
 * [André Feijó](https://github.com/andrefeijosantos)
 * [Natascha Palhares](https://github.com/NataschaPalhares)
 * [Rafael Zardo](https://github.com/rafazardo)
