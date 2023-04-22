@@ -1,0 +1,6 @@
+addi 1 2 3
+addi 4 5 6
+bne 1 4 JUMP rr
+addi 4 4 6
+JUMP 
+addi 4 4 -3
